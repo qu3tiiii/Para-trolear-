@@ -3,7 +3,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-  <title>alo</title>
+  <title>me das dinero?</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <style>
         body {
@@ -12,7 +12,7 @@
     </style>
     <script>
         function XDD(){
-            alert('JAJAJAJJA q gei');
+            alert('gracias XD');
         }
 
         function mueveElBoton(){
