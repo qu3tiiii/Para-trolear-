@@ -31,7 +31,7 @@
     </script>
 </head>
 <body>
-  <h3>Eri gei?</h3>
+  <h3>Me das dinero?</h3>
     <input type="button" onclick="XDD()" id="btnSi" value="Si" />
     <input type="button" id="btnNo" onmouseover="mueveElBoton()" value="No" />
     <img src="chuec.png" width="200">
